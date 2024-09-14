@@ -1,0 +1,39 @@
+@media screen and (max-width:830px) {
+    .day, .exercise, .series{
+        width: 200px;
+    }
+}
+
+@media screen and (max-width:768px) {
+    .day, .exercise, .series{
+        width: 180px;
+    }
+}
+
+@media screen and (max-width:460px) {
+    .divide{
+        display: block;
+    }
+
+    .user li{
+        text-align: center;
+    }
+
+    .user li span:last-child{
+        border-bottom: none;
+    }
+
+    .day, .exercise, .series, .sets, .reps {
+        width: 250px;
+    }
+
+    .day, .exercise, .series, .sets, .reps{
+        padding: 10px 0;
+        border-bottom: 1px solid #626161;
+    }
+
+    .title-list .day, .title-list .exercise, .title-list .series, .title-list .sets, .title-list .reps{
+        padding: 10px 0;
+        border-bottom: 1px solid #ffffff;
+    }
+}

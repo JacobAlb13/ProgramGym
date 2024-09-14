@@ -1,0 +1,36 @@
+{
+    "iscritti": [
+        {
+    "name":"Gianpiero",
+    "lastname":"Tirelli",
+    "id": 412,
+    "sport":"bodybuilding"
+
+},
+{
+    "name":"Pierfrancesco",
+    "lastname":"Pinotti",
+    "id": 787,
+    "sport":"powerlifting"
+},
+{
+    "name":"Giorgio",
+    "lastname":"Caldaroli",
+    "id": 345,
+    "sport":"calisthenics"
+},
+{
+    "name":"Gianmauro",
+    "lastname":"De Castro",
+    "id": 1256,
+    "sport":"bodybuilding"
+},
+{
+    "name":"Emilio",
+    "lastname":"Romano",
+    "id": 45,
+    "sport":"powerlifting"
+}
+    ]
+    
+}
